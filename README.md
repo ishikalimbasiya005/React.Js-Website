@@ -6,7 +6,7 @@ Includes stylish UI with Font Awesome icons, and custom fonts.
 ---
 
 ## Demo:
-[🔗 Demo](./Image/Banner.png)
+![🔗 Demo](image/banner.png)
 
 ---
 ## 🚀 Features
